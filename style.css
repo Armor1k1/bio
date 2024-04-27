@@ -1,0 +1,35 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.site {
+    width: 80%; /* или любая другая ширина, которую вы хотите использовать */
+    max-width: 1200px; /* максимальная ширина сайта */
+    margin: auto; /* автоматический отступ по бокам для центрирования */
+}
+
+.card {
+    color: #fff;
+    background: #000;
+}
+
+.support a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.prog-text a {
+    text-decoration: none;
+    color: lightblue;
+}
